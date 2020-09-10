@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="Test_03assasdsdsdsadsadsds">Hello World</string>
+  <!-- Index app welcome -->
+  <string name="Test_01">Hello</string>
+  <string name="Linked_key">Hello</string>
 </resources>
