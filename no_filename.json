@@ -1,458 +1,325 @@
 {
-    "Agree": {
-        "translation": "I agree to Care Innovations {0}",
-        "notes": ""
-    },
-    "ChangePasswordSuccess": {
-        "translation": "Success! Your password has been changed. You can sign in to the application on your mobile device using your new password. If you need any help, please call customer support at {0}.",
-        "notes": ""
-    },
-    "ConfirmPassword": {
-        "translation": "Confirm password",
-        "notes": ""
-    },
-    "CurrentPassword": {
-        "translation": "Current password",
-        "notes": ""
-    },
-    "CurrentPasswordValidation": {
-        "translation": "You must enter a valid current password.",
-        "notes": ""
-    },
-    "EmailAddress": {
-        "translation": "Email address",
-        "notes": ""
-    },
-    "EmailAddressValidation": {
-        "translation": "You must enter a valid email address.",
-        "notes": ""
-    },
-    "EndUserLicenseAgreement": {
-        "translation": "End User License Agreement",
-        "notes": ""
-    },
-    "EndUserLicenseAgreementValidation": {
-        "translation": "You must accept the End User License Agreement.",
-        "notes": ""
-    },
-    "ForgotPasswordHeader": {
-        "translation": "Enter your email address and we will send you instructions to reset your password.",
-        "notes": ""
-    },
-    "ForgotPasswordSubject": {
-        "translation": "Reset Your Password",
-        "notes": ""
-    },
-    "ForgotPasswordSuccess": {
-        "translation": "Success! Please check your email for further instructions. If you need any help, please call customer support at {0}.",
-        "notes": ""
-    },
-    "InviteSubject": {
-        "translation": "Confirm Your {0} Account",
-        "notes": ""
-    },
-    "NewPassword": {
-        "translation": "New password",
-        "notes": ""
-    },
-    "NewPasswordLengthValidation": {
-        "translation": "Your password must be at least {0} characters long.",
-        "notes": ""
-    },
-    "NewPasswordMatchValidation": {
-        "translation": "Your new password must match the confirm password.",
-        "notes": ""
-    },
-    "NewPasswordValidation": {
-        "translation": "You must enter a valid new password.",
-        "notes": ""
-    },
-    "PrivacyPolicy": {
-        "translation": "Privacy Policy",
-        "notes": ""
-    },
-    "Pwned": {
-        "translation": "This password has previously appeared in a data breach of another site. Please choose a more secure alternative.",
-        "notes": ""
-    },
-    "ResetPasswordHeader": {
-        "translation": "Reset your password.",
-        "notes": ""
-    },
-    "ResetPasswordSubject": {
-        "translation": "Your password has been changed",
-        "notes": ""
-    },
-    "ResetPasswordSuccess": {
-        "translation": "Success! Your password has been changed. You can sign in to the application on your mobile device using your new password. If you need any help, please call customer support at {0}.",
-        "notes": ""
-    },
-    "SignUpHeader": {
-        "translation": "Create your new password to sign up.",
-        "notes": ""
-    },
-    "SignUpSuccess": {
-        "translation": "Success! Thank you for confirming your email and choosing a password. You will receive an email with instructions on how to download the application on your mobile device. If you do not receive an email, please call customer support at {0}.",
-        "notes": ""
-    },
-    "Submit": {
-        "translation": "Submit",
-        "notes": ""
-    },
-    "TermsAndConditions": {
-        "translation": "Terms and Conditions",
-        "notes": ""
-    },
-    "WelcomeSubject": {
-        "translation": "Get Started With Your {0} Account",
-        "notes": ""
-    },
-    "aaaaaprivacy.paragraph_A_6.content.subparagraph_2_1": {
-        "translation": "",
-        "notes": ""
-    },
-    "privacy.paragraph_A_6.content.subparagraph_2_1": {
-        "translation": "",
-        "notes": ""
-    },
-    "privacy.paragraph_A_6.content.subparagraph_2_2": {
-        "translation": "",
-        "notes": ""
-    },
-    "privacy.paragraph_A_6.content.subparagraph_2_3": {
-        "translation": "a non-breaking space (\" \"),",
-        "notes": ""
-    },
-    "menu.title": {
-        "translation": "Menu",
-        "notes": "Localizable.strings\n  Onin\n\n  Created by Alex Little on 15\/04\/2020.\n  Copyright © 2020 ONIN LTD. All rights reserved."
-    },
-    "menu.account.options.title": {
-        "translation": "Account Options",
-        "notes": ""
-    },
-    "menu.account.options.description": {
-        "translation": "Choose an option",
-        "notes": ""
-    },
-    "menu.account.options.removeFromDevice": {
-        "translation": "Remove from device",
-        "notes": ""
-    },
-    "menu.account.options.removeFromOnin": {
-        "translation": "Remove from Onin",
-        "notes": ""
-    },
-    "activity.title": {
-        "translation": "Activity",
-        "notes": ""
-    },
-    "search.placeholder": {
-        "translation": "Search or create",
-        "notes": ""
-    },
-    "search.results": {
-        "translation": "RESULTS",
-        "notes": ""
-    },
-    "search.create": {
-        "translation": "CREAT\bE",
-        "notes": ""
-    },
-    "event.title.fallback": {
-        "translation": "(Untitled)",
-        "notes": ""
-    },
-    "newEvent.title": {
-        "translation": "New Event",
-        "notes": ""
-    },
-    "newEvent.calendar.title": {
-        "translation": "Calendar",
-        "notes": ""
-    },
-    "newEvent.search": {
-        "translation": "Contacts",
-        "notes": ""
-    },
-    "newEvent.newContact": {
-        "translation": "New Contact",
-        "notes": ""
-    },
-    "newEvent.details": {
-        "translation": "DETAILS",
-        "notes": ""
-    },
-    "newEvent.creator": {
-        "translation": "CREATOR",
-        "notes": ""
-    },
-    "newEvent.creator.you": {
-        "translation": "You",
-        "notes": ""
-    },
-    "newEvent.members": {
-        "translation": "MEMBERS",
-        "notes": ""
-    },
-    "newEvent.addParticipants": {
-        "translation": "ADD PARTICIPANTS",
-        "notes": ""
-    },
-    "newEvent.title.placeholder": {
-        "translation": "Title (Optional)",
-        "notes": ""
-    },
-    "newEvent.location.placeholder": {
-        "translation": "Location (Optional)",
-        "notes": ""
-    },
-    "newEvent.create": {
-        "translation": "Create",
-        "notes": ""
-    },
-    "eventInfo.title": {
-        "translation": "Update Event",
-        "notes": ""
-    },
-    "eventInfo.update": {
-        "translation": "Update",
-        "notes": ""
-    },
-    "participantInfo.title": {
-        "translation": "Participant Info",
-        "notes": ""
-    },
-    "chat.input.placeholder": {
-        "translation": "Message",
-        "notes": ""
-    },
-    "alert.error": {
-        "translation": "Error: {0}",
-        "notes": ""
-    },
-    "alert.ok": {
-        "translation": "Ok",
-        "notes": ""
-    },
-    "alert.cancel": {
-        "translation": "Cancel",
-        "notes": ""
-    },
-    "error.internal": {
-        "translation": "Something went wrong",
-        "notes": ""
-    },
-    "login.google": {
-        "translation": "Continue with Google",
-        "notes": ""
-    },
-    "account.provider.google": {
-        "translation": "Google",
-        "notes": ""
-    },
-    "account.title": {
-        "translation": "Account Info",
-        "notes": ""
-    },
-    "фывфывфывфыв": {
-        "translation": "ывыфвфыв",
-        "notes": ""
-    },
-    "asdsadsasadsadsadsa": {
-        "translation": "adasd",
-        "notes": ""
-    },
-    "dynamic-timeframe": {
-        "translation": "Timeframe",
-        "notes": "The name of this file should be the associated locale code followed by \".strings\","
-    },
-    "conversion-name": {
-        "translation": "Name",
-        "notes": "Conversion Attribution dashboard"
-    },
-    "top-conversions": {
-        "translation": "Top Conversions",
-        "notes": ""
-    },
-    "touchpoints-leading-to-conversion": {
-        "translation": "Touchpoints Leading Up to a Conversion",
-        "notes": ""
-    },
-    "conversion-count-current-period": {
-        "translation": "Conversion (Current Period)",
-        "notes": "Total count of conversions in this current period"
-    },
-    "conversion-count-previous-period": {
-        "translation": "Conversion (Previous Period)",
-        "notes": "Total count of conversions from previous period"
-    },
-    "conversion-value-current-period": {
-        "translation": "Value (Current Period)",
-        "notes": "Total conversions value in this current period"
-    },
-    "conversion-value-previous-period": {
-        "translation": "Value (Previous Period)",
-        "notes": "Total conversions value from previous period"
-    },
-    "conversion-percent-change-value": {
-        "translation": "% Change of Value",
-        "notes": "Percentage of change in value between 2 time periods"
-    },
-    "conversion-percent-change-count": {
-        "translation": "% Change of Conversion",
-        "notes": "Percentage of change in count between 2 time periods"
-    },
-    "attribution-source-over-time": {
-        "translation": "Attribution Source Over Time",
-        "notes": ""
-    },
-    "attribution-note-text": {
-        "translation": "This chart represents the last three tracked touchpoints your customers interacted with before converting",
-        "notes": ""
-    },
-    "attribution-no-touchpoint": {
-        "translation": "No Touchpoint",
-        "notes": ""
-    },
-    "campaign-name-link": {
-        "translation": "Campaign Name",
-        "notes": "Campaign Performance"
-    },
-    "campaign-subject": {
-        "translation": "Campaign Subject",
-        "notes": "Campaign message subject line"
-    },
-    "campaign-see-message-drill": {
-        "translation": "See Campaign Results by Message",
-        "notes": "Additional campaign information"
-    },
-    "campaign-not-split": {
-        "translation": "Not Split Campaign",
-        "notes": "Additional campaign information"
-    },
-    "campaign-last-sent": {
-        "translation": "Last Sent Date",
-        "notes": "Campaign last sent date"
-    },
-    "campaign-sends": {
-        "translation": "# Sends",
-        "notes": "Total number of campaign sent out"
-    },
-    "campaign-opens": {
-        "translation": "# Opens",
-        "notes": "Total number of campaign being opened"
-    },
-    "campaign-clicks": {
-        "translation": "# Clicks",
-        "notes": "Total number of campaign being clicked"
-    },
-    "campaign-unsubscribes": {
-        "translation": "# Unsubscribes",
-        "notes": "Total number of campaign being unsubscribed"
-    },
-    "campaign-bounces": {
-        "translation": "# Bounces",
-        "notes": "Total number of campaign being bounced"
-    },
-    "campaign-open-rate": {
-        "translation": "Open Rate",
-        "notes": "Campaign open rate"
-    },
-    "campaign-click-to-open-rate": {
-        "translation": "Click to Open Rate",
-        "notes": "Campaign click to open rate"
-    },
-    "campaign-click-rate": {
-        "translation": "Click Rate",
-        "notes": "Campaign click rate"
-    },
-    "campaign-unsubscribe-rate": {
-        "translation": "Unsubscribe Rate",
-        "notes": "Campaign unsubscribe rate"
-    },
-    "campaign-forward-rate": {
-        "translation": "Forward Rate",
-        "notes": "Campaign forward rate"
-    },
-    "campaign-bounce-rate": {
-        "translation": "Bounce Rate",
-        "notes": "Campaign bounce rate"
-    },
-    "campaign-currency": {
-        "translation": "Currency",
-        "notes": "Currency for revenue generated by campaign"
-    },
-    "campaign_revenue": {
-        "translation": "Revenue",
-        "notes": "Revenue generated by campaign"
-    },
-    "campaign_not_tracked": {
-        "translation": "Not Tracked",
-        "notes": "Campaign Revenue is not available, not being tracked yet"
-    },
-    "campaign_split_winner": {
-        "translation": "Split Winner: ",
-        "notes": "Campaign split winning message"
-    },
-    "campaign_split_tbd": {
-        "translation": "Split result not yet available",
-        "notes": "Campaign split winner is not available yet"
-    },
-    "send_volume": {
-        "translation": "Send Volume by Message",
-        "notes": "Split Campaign report"
-    },
-    "open_rate_by_message": {
-        "translation": "Open Rate by Message",
-        "notes": "Open Rate is percentage of campaign being opened, for each message type"
-    },
-    "click_rate_by_message": {
-        "translation": "Click Rate by Message",
-        "notes": "Open Rate is percentage of campaign being clicked, for each message type"
-    },
-    "campaigns_performance": {
-        "translation": "Campaigns Performance",
-        "notes": "Report title"
-    },
-    "message_name": {
-        "translation": "Message Name",
-        "notes": "Name of the message"
-    },
-    "message_subject": {
-        "translation": "Subject",
-        "notes": "Campaign message subject"
-    },
-    "message_preheader": {
-        "translation": "Preheader Text",
-        "notes": "Text that shows up as a snippet when viewing emailed campaign in mailbox"
-    },
-    "send_details_by_message": {
-        "translation": "Send Details by Message",
-        "notes": "Title"
-    },
-    "automation_name": {
-        "translation": "Automations",
-        "notes": "All Automations report"
-    },
-    "automation_contacts": {
-        "translation": "Contacts",
-        "notes": "Number of contacts interacted with an automation"
-    },
-    "automations_interacted": {
-        "translation": "Interacted",
-        "notes": "Rate of interaction with an automation"
-    },
-    "automations_no_campaign": {
-        "translation": "Contains no campaign",
-        "notes": "This automation does not contain any campaign"
-    },
-    "automations_one_campaign": {
-        "translation": "Contains 1 campaign",
-        "notes": "This automation contains 1 campaign"
-    },
-    "Test_03assasdsdsdsadsadsds": {
-        "translation": "Hello World",
-        "notes": ""
-    }
+    "3853": "ジジジ...キャンディーキャンディー...",
+    "3867": "何か言おうとしてるみたい！",
+    "4111": "わぁ！キャンディーがいっぱい！",
+    "4481": "お～い、こっちへおいで！",
+    "4504": "コレデマタハタラケマス！",
+    "4660": "ゲンキニナリマシタ！",
+    "639777": "すばらしいマッチだね！",
+    "639778": "ジジジ...キャンディー...モットクダサイ...",
+    "639779": "ティフィーがキャンディーを並べるのを手伝ってくれるといいのだが。",
+    "639780": "キャンディーがもっとあればなあ。",
+    "639781": "ジジジ...マダ...ナオリマセン...",
+    "639782": "キャンディーヲアリガトウ！ハナセルヨウニナリマシタ！",
+    "639783": "のどが渇いた！レモネードがもっと欲しいわ！",
+    "639784": "まだ足りない...ああ、のどがカラカラ！",
+    "639785": "とってもおいしかった！ありがとう、ティフィー！",
+    "639786": "イエティさんったら、いつも寝てばっかり。",
+    "639787": "わたしもお昼寝しようっと。おやつの時間になったら起こしてね！",
+    "639788": "おやつをくれるなら早起きするよ！",
+    "639789": "ユニコーンなのにツノがなくなっちゃった...",
+    "639790": "これじゃあ、ただの馬みたい...",
+    "639791": "やったあ！やっぱりユニコーンはツノがなくちゃね！",
+    "639792": "キャンディー王国のみんなが君の助けを待っているよ！",
+    "639793": "話したいときは、タップしてごらん。",
+    "639794": "うん！キャンディーさえあれば、\nきっと何でもうまくいくよ！",
+    "639939": "チョコレートバニーにされそうになって逃げてきたんだ...",
+    "639943": "そしたら、ここにはまっちゃったんだ。助けて！",
+    "639944": "出してくれてありがとう！次は気をつけるね！",
+    "639945": "コラ！キャンディーを置いていけ！",
+    "639947": "あげないよ。見るだけならいいけど！",
+    "639948": "なんだと...？なんて生意気な！",
+    "639949": "ああ、宇宙船が！どうしよう？",
+    "639950": "ぼくの宇宙船、直してくれた？",
+    "639951": "これでもう大丈夫！じゃあ、またね！",
+    "639952": "誰かが宮殿を直してくれるといいんだが。",
+    "639953": "自分のお願いはかなえられないの？",
+    "639954": "いやあ、助かった！すまないな！",
+    "639957": "穴のあいた潜水艦なんて...",
+    "639959": "もう海には潜れないのかな...エ～ン！",
+    "639960": "ガムで穴をふさいでくれたの！？名案だね！",
+    "664070": "すごいね！こんなに進んだよ！",
+    "664071": "記念パック",
+    "664072": "どれか1つ購入できるよ！",
+    "667331": "獲得確率",
+    "667373": "一緒に遊ぼう！\nキャンディークラッシュでチームを作ったよ。\n\nこのリンクから私のチームに参加してね！\n{link}",
+    "667379": "友達をチームに呼ぼう！",
+    "667380": "{number}%",
+    "667407": "記念のプレゼントをどうぞ！",
+    "667649": "ワッフル",
+    "667650": "ポップコーン",
+    "667716": "ロールレセプション",
+    "667717": "Rug Roller",
+    "667825": "おめでとう！",
+    "668342": "プレゼントを受け取ると、新しいシュガートラックを始められるよ！",
+    "670811": "チーム加入手続き中。しばらくお待ちください...",
+    "671175": "OK",
+    "671176": "OK",
+    "671258": "新しいチームへようこそ！",
+    "671259": "あなたのチームへの参加希望者が\nいるよ",
+    "671268": "しばらく経ってからでないと新しいチームには入れないよ 。",
+    "671269": "しばらく経ってからでないと 新しいチームは作れないよ。",
+    "672913": "シュガー​コート",
+    "672915": "シュガーコートの​下で​マッチを​作って、​1層ずつ​消して​いこう！",
+    "672990": "レベル{level}に​到達すれば​チーム​プレイが​楽しめるよ！",
+    "672991": "チームへの​招待",
+    "673301": "全て​受け取る",
+    "674038": "リクエストを​送信",
+    "674039": "公開​チーム",
+    "674040": "非公開​チーム",
+    "674343": "ショップ",
+    "674344": "マップ",
+    "674345": "イベント",
+    "674560": "迷惑行為の​報告",
+    "674561": "報告",
+    "674562": "迷惑行為が​あったため、​この​チームを​報告します:",
+    "674563": "ありがとう​ございました",
+    "674564": "お寄せ​いただいた​ご意見は、​今後の​改善への​参考と​させていただきます。",
+    "674565": "報告する",
+    "674641": "スコア",
+    "674682": "名前を​入力",
+    "674871": "メンバー",
+    "674872": "オーナー",
+    "675025": "不適切な​名前です。",
+    "675051": "ドリームチームを​作るか​別の​チームに​入ろう！",
+    "675052": "New",
+    "675053": "自分で​メンバーを​選べるよ。",
+    "675054": "友達と一緒に​遊べるよ！",
+    "675055": "プレゼント​獲得の​チャンス増！",
+    "675056": "または",
+    "675077": "バブルガム​ポップ",
+    "675078": "キャンディーを​マッチさせて​バブルガム​ポップの​層を​1層ずつ​消して​いこう。​最後の​層を​消すと​爆発するよ！",
+    "675093": "チョコレート​スポーナー",
+    "675094": "アップデート",
+    "675096": "チョコレート​スポーナーの​デザインが​新しくなったよ！",
+    "675326": "本当に​このレベルを​終了する？",
+    "675428": "レインボー​キャンディーを​全部​集められ​なかったよ。",
+    "675458": "レインボー​リバー​レベル:",
+    "675459": "邪魔なものを​消して​レインボー​キャンディーを​完成させて​集めよう。",
+    "675511": "グミ​ガーデン",
+    "675512": "レモネード​レイク",
+    "675513": "ロリポップ​メドウ",
+    "675514": "ファンタスティック​フォレスト",
+    "675515": "レインボー​コーラル",
+    "675516": "キャラメル​キャニオン",
+    "675517": "サニー​スワンプ",
+    "675518": "バブルガム​ヒル",
+    "675519": "チョコレート​マウンテン",
+    "675520": "ソーダ​シー",
+    "675521": "招待状が​届いたよ！",
+    "675522": "キャンディークラッシュの​チームで​一緒に遊ぼう！",
+    "675523": "新しい​チームに​入ろう！",
+    "675524": "招待を​受け入れる",
+    "675525": "Facebookで​プレイする？",
+    "675526": "困った時は...",
+    "675527": "ゲームを​開いて​チームを​見つけよう。",
+    "675528": "ヘルプセンターへ​移動",
+    "675529": "ご意見を​お待ちしています",
+    "675530": "コミュニティで​チーム​プレイの​感想を​シェアしよう",
+    "675531": "コミュニティへ​移動",
+    "675532": "© 2020 King.com Ltd. King, the King crown logo, the game names and related marks are trademarks of King.com Ltd. or related entities. All rights reserved.",
+    "675817": "友達を​誘おう！​この​リンクを​コピーして​友達に​送ってね。",
+    "675871": "レベル内で​不具合が​発生​しました。​お手数を​おかけ​しますが​サポートまで​ご連絡ください。",
+    "675956": "公開​チームに​参加​するか、​非公開​チームへの​リクエストを​1つ​削除してね。",
+    "675957": "リクエスト​上限に​到達",
+    "676132": "レインボー​シャワー",
+    "676133": "キャンディーを​マッチさせて​レインボー​シャワーを​放とう！",
+    "676654": "ランキング",
+    "676655": "集めたもの",
+    "676656": "すごいね！",
+    "677227": "1回で​レベルを​クリアする",
+    "677228": "ゲーム内​アイテムを​使う",
+    "677229": "シュガースターを​獲得する",
+    "677230": "アイテムを​使ったよ！",
+    "677231": "1回で​マスター​したね！",
+    "677232": "すごい！",
+    "677233": "レベルを​マスター！",
+    "677234": "一気に​エピソードを​クリアしたね！",
+    "677235": "エピソードを​クリア！​さすが！",
+    "677236": "エピソードを​クリア！",
+    "677237": "Hardレベルを​マスター！",
+    "677461": "集めたアイテムは​プロフィールの​中にあるよ",
+    "677540": "1000レベルを​クリアしたよ！​お祝いの​プレゼントを​どうぞ！​プレイ​してくれてありがとう！",
+    "677547": "6000レベルを​クリアしたよ！​お祝いの​プレゼントを​どうぞ！​プレイ​してくれてありがとう！",
+    "677551": "7000レベルを​クリアしたよ！​お祝いの​プレゼントを​どうぞ！​プレイ​してくれてありがとう！",
+    "677604": "オーダーと​フルーツを​全部集めよう！",
+    "677605": "邪魔なものを​消して​レインボー​シャワーを放とう！",
+    "677621": "その調子で​ガンガン​いこう！",
+    "677630": "現在​リクエスト​なし",
+    "677662": "ランキング",
+    "677680": "レベルを{0}面​クリアしたよ！​お祝いの​プレゼントを​どうぞ！​プレイ​してくれて​ありがとう！",
+    "680216": "広告を1つ見ると、​キャンディーを​1個​スマッシュ​できるよ。​中から​素敵な​プレゼントが​現れるかも！​プレゼント​獲得の​確率は​{1}分の{0}。​トライしてみてね！",
+    "680217": "広告を1つ見ると、​キャンディーを​1個​スマッシュ​できるよ。​中から​素敵な​プレゼントが​現れるかも！​プレゼント​獲得の​確率は​9分の5。​トライしてみてね！",
+    "680271": "あきらめる",
+    "680272": "ゲームを​続ける",
+    "680467": "リコリス​カール",
+    "680468": "スペシャルキャンディーの​効果を​ブロックする、​厄介な​カールだよ。​隣でマッチを​作って​層を消していこう！",
+    "680469": "リコリス​フェンス",
+    "680470": "スペシャルキャンディーの​効果を​ブロックする、​壊せない​フェンスだよ。​別の方法で​レベルをクリアしてね！",
+    "680518": "アイシング",
+    "680519": "アイシングの​デザインが​新しくなったよ！",
+    "680636": "マジック​ミキサー",
+    "680638": "マジックミキサーの​デザインが​新しくなったよ！",
+    "681526": "次のレインボー​アドベンチャーも​クリアして​プレゼントを​ゲットしよう！",
+    "681528": "やったね！​次のチャレンジも​クリアして、​プレゼントを​たくさんゲットしよう！",
+    "681529": "レインボー​アドベンチャー",
+    "681530": "プレイ！",
+    "681531": "レインボー​アドベンチャー",
+    "681532": "やったね！​次のチャレンジも​クリアして、​プレゼントを​たくさんゲットしよう！",
+    "681554": "広告を見て​ミニ​ゲームを​プレイ！",
+    "681982": "チケットとポップコーンを​用意してね。​キングダム​シネマが​始まるよ！",
+    "681983": "広告を見ると​プレゼントが​もらえるよ！​この​チャンスを​お見逃しなく！",
+    "681984": "Sweet!",
+    "681985": "OK",
+    "681986": "見る",
+    "682413": "オーダー​ロック",
+    "682414": "指定されたものを​集めて​オーダー​ロックを​開けよう！",
+    "682716": "",
+    "684195": "サワー​スカル",
+    "684197": "サワースカルを​壊すには​隣で​キャンディーを​マッチさせてね！",
+    "685221": "ゲームを​続けよう！",
+    "685320": "邪魔なものを​消して​シャワーを​流し、​ゼリーを​集めよう！",
+    "685321": "邪魔なものを​消して​シャワーを​流し、​オーダーを​集めよう！",
+    "685322": "邪魔なものを​消して​シャワーを​流し、​フルーツを​全部​集めよう！",
+    "685578": "スイートシネマへ​ようこそ！​広告を​見ると​追加の​移動回数が​もらえるよ！",
+    "685579": "移動回数が​足りない？",
+    "685580": "あと少しで​このレベルを​クリア​できそうだね！\n\n紫のボタンを​タップして​スイート​シネマで​広告を​見てね。\n\n最後まで見ると、​ラッキー​ルーレットが​1回​まわせるよ！\n\n追加の​移動回数を​獲得する​チャンス！",
+    "685581": "広告を見る",
+    "685699": "{DAYS_AMOUNT}日",
+    "685700": "{DAYS_AMOUNT}日",
+    "685729": "ライフ回復まで：",
+    "686392": "シュガー​チェスト",
+    "686393": "シュガー​チェストの​デザインが​新しく​なったよ！",
+    "686453": "キャンディー​タウンが​元通りに",
+    "686454": "このイベント専用の​ライフを​追加​しよう。​通常の​ライフは​マップで​使ってね。",
+    "686455": "購入",
+    "686456": "ココア",
+    "686457": "冬祭りの​シーズン",
+    "686458": "あきらめないで！​キャンディー​タウンの​みんなを​助けよう！",
+    "686459": "やなこった！",
+    "686460": "ライフを​ゲット！",
+    "686461": "建物をアップグレード​するか​ゴールドを​使って、​より​大きな​マグを​手に入れよう！",
+    "686462": "マグが大きいほど、​イベント​レベルを​クリアした​時に​獲得できる​ココアが​多くなるよ。",
+    "686463": "デコレーション",
+    "686464": "レベルを​クリア​できなかったよ。",
+    "686465": "アップグレード完了！​他の建物も​スイートに​変身させてね。",
+    "686466": "マグが大きいほど、​イベント​レベルを​クリアした​時に​もらえる​ココアが​多くなるよ。",
+    "686467": "建物をアップ​グレードして、​より大きな​マグを​手に入れよう！",
+    "686468": "マップ上のものを​{number}回​アップ​グレードして、​イベント​レベルごとに​ココアを​+{points_enhancer}獲得しよう。",
+    "686469": "ココアを​ゲット",
+    "686470": "もっと大きい​マグを​手に入れたよ。",
+    "686471": "輝きを増した​キャンディー​タウン広場",
+    "686472": "#NAME?",
+    "686473": "不機嫌な​トロル",
+    "686474": "Sweetest",
+    "686475": "最大​サイズに​到達！",
+    "686476": "#NAME?",
+    "686477": "トフィー市長: ​広場の​デコレーションに​ご協力を！",
+    "686478": "ティア",
+    "686479": "キャンディー​タウンで​冬祭り",
+    "686480": "やったね！",
+    "686481": "Sweeter",
+    "686482": "+{points_enhancer}ココアで​アップ​グレードを加速！",
+    "686483": "ココアを​使って​キャンディー​タウンを​アップグレードしよう。",
+    "686484": "アップグレード可能に​するには、​まず​他の​建物を​変身させよう。",
+    "686485": "Sweet",
+    "686486": "キャンディータウンに​大雪が​降ったよ。​イベント​レベルを​クリア​しながら​雪を​片づけて、​冬祭りの​準備をしよう！",
+    "686487": "デコレーション",
+    "686488": "本当は​バブルガム​トロルも​飾りつけを​手伝いたい​のかな？",
+    "686489": "タスクを​クリアしたよ！​プレゼントを​どうぞ！",
+    "686490": "SWEET!",
+    "686491": "建物を​デコレーションして​冬祭りの​準備をしよう！",
+    "686492": "出してくれて​ありがとう！​もっと​大きな​マグを​使えば​スピード​アップできるよ。",
+    "686493": "おめでとう！​目標を​全部​クリアしたよ！",
+    "686494": "トロルにも​このお祭り​気分を​味わわせて​やりたいね。​ちょっと​見にいって​みようか？",
+    "686495": "広場を​デコレーション​しよう！",
+    "686496": "もっと大きい​マグを​手に入れたよ。",
+    "686497": "キャンディータウンの​みんなが​助けを​待ってるよ！",
+    "686498": "マグが大きいと​スピード​アップ​できるね！​ほら、​こんなに​ココアが​集まったよ！",
+    "686499": "イベントレベルごとに​+{points_enhancer}ココアが​獲得​できる​ようになったよ。",
+    "686500": "報酬",
+    "686501": "ココアが​足りないよ。​イベント​レベルを​クリアして​もっと​集めてね。",
+    "686502": "わーい！​これで​もっと​はかどるね。",
+    "686503": "まあいいさ。​今までで​一番​すばらしい​冬祭りに​しよう​じゃないか！",
+    "686504": "冬まっさかり",
+    "686505": "さらに大きな​マグ​付きの報酬",
+    "686507": "受け取る",
+    "686508": "残念！",
+    "686509": "やったね！​雪かきが​終わったよ！",
+    "686510": "報酬を​受け取ろう！",
+    "686511": "ここでやめたら、​このレベルで​集めた​ココアが​もらえなく​なっちゃうよ。",
+    "686512": "ねえ、広場の​飾りつけを​手伝ってくれない？",
+    "686513": "マグの​アップグレード",
+    "686514": "もう少しで​冬祭りの​準備完了​だよ。​がんばって！",
+    "686515": "目標",
+    "686516": "この目標を​クリア​したよ！",
+    "686517": "新しい年を​新しい​キャンディー​タウンで",
+    "686518": "これ以上​アップ​グレード​できないよ。",
+    "686519": "アンロックしたよ:",
+    "686520": "アンロック",
+    "686521": "参加してくれて​ありがとう！",
+    "686522": "広場を​ライトアップ",
+    "686523": "もっと大きなマグを​手に入れて、​イベント​レベルでの​ココア​獲得量を​増やそう。",
+    "686524": "レベルを{number}面​クリアして​このアイテムを​ゲットしよう。",
+    "686525": "すごい吹雪​だったね、​イエティ！​雪だるまを​作ろうよ！",
+    "686526": "ココアを​もっと​手に入れよう！",
+    "686527": "より大きな​マグを​ゲット",
+    "686528": "やったね！",
+    "686529": "冬祭り",
+    "686530": "うへえ、​毎年冬に​なると​この​浮かれ​騒ぎだ。​寒気がするぜ...",
+    "686531": "ここでやめたら、​イベント​専用​ライフが​減っちゃうよ！",
+    "686532": "クリアしたよ:",
+    "686533": "さすがのオイラも​お祭り​気分に​なって​きたぜ。​まったく、​あいつらときたら...！",
+    "686534": "バブルガムトロル: ​冬祭り​なんて​まっぴらごめん",
+    "686535": "現在の​イベント​レベルごとの​ココア",
+    "686536": "レベルを​クリア",
+    "686537": "キャンディー​タウン​広場が​銀世界に",
+    "686538": "なんてこった...",
+    "686539": "キャンディー​通信",
+    "686540": "次のレベルでは​どのくらい​ココアを​集められるかな？",
+    "686541": "ライフがもうないよ！​プレイを​続けるには、​ゴールドで​ライフを​購入してね。",
+    "686542": "バブルガムトロルは​手伝って​くれる気は​ないみたい...",
+    "686543": "やったね！",
+    "686554": "30ゴールドから​利用​可能。​60まで​貯めよう！",
+    "686555": "購入するたびに​新しい​デザインに​なるよ！",
+    "686556": "60まで貯めるか​今すぐ​購入しよう！",
+    "686557": "購入して​新しい​デザインの​貯金箱を​ゲットしよう！",
+    "686558": "いっぱいだよ！​購入すれば​また​ゴールドを​貯められるよ。",
+    "686629": "",
+    "686630": "",
+    "686826": "スケアリー​スカル",
+    "686827": "ミステリー​タワー",
+    "686838": "サワースカルを​消して​プレゼントを​ゲットしよう！",
+    "686844": "ライフ1つで​サワースカルを​やっつけて、​プレゼントを​ゲット！",
+    "686851": "サワースカルを​やっつけて​全レベルを​クリア​してね。​クリアする​たびに​プレゼントが​もらえるよ！​ハロウィン​イベントの​詳細は​コミュニティ​ページ​（英語のみ）で​チェック！\n頑張って！",
+    "686852": "不気味な​イベントが​もうすぐ​始まるよ...​フォーラムで​プレビューを​チェックしよう！",
+    "686856": "キャンディー​セレブレーション",
+    "686857": "レベルを1回で​クリアして​金の王冠を​集めてね。​プレゼントが​もらえるよ！",
+    "686858": "イベント",
+    "686859": "祝・キャンディーの日！​レベルを​1回で​クリアして​金の王冠を​集めてね。​アイテム​宝箱が​もらえるよ！",
+    "686860": "プレイ",
+    "686861": "金の王冠を​集めよう",
+    "686862": "残念...",
+    "686863": "受け取る",
+    "686864": "最高の​パーティーだね！",
+    "686865": "レベルをクリアして​プレゼントを​ゲット！",
+    "686866": "アイテム​宝箱​獲得の​チャンス！​レベルを​どんどん​クリアして​ランキング​上位を​めざそう！",
+    "686867": "レベルを​クリアしよう",
+    "686868": "レベルでスターを​ゲットして​ピニャータを​割ろう！",
+    "686869": "アイテム宝箱​獲得の​チャンス！​レベルで​スターを​集めて​ピニャータを​割ろう！",
+    "686871": "スターを​集めよう",
+    "686872": "おめでとう！",
+    "686874": "最終順位",
+    "686879": "ギブアップすると​進行​状況が​リセット​されちゃうよ！",
+    "686924": "カボチャ​ハント",
+    "686925": "ティフィーと​一緒に​オレンジ​スイーツを​集めて​プレゼントを​ゲット！",
+    "686926": "プレイ",
+    "686929": "トリック・​オア・​トリート",
+    "686930": "キャンディーを​集めよう",
+    "686931": "ここでやめたら、今​集めた​キャンディーが​ムダに​なっちゃうよ...",
+    "686932": "トリック",
+    "686933": "最終順位",
+    "686934": "トリート",
+    "686935": "プレゼントを​ゲット​したよ。",
+    "686959": "エネルギーを​リチャージして​プレイを​続けよう"
 }
