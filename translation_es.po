@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Contentful\n"
+"PO-Revision-Date: 2020-09-17 09:51\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: es\n"
+
+msgctxt "{\"cxt\": \"survey_next\", \"id\": 292745012, \"checksum\": 1234206544}"
+msgid "Next"
+msgstr "próximo"
+
+msgctxt "{\"cxt\": \"survey_prev\", \"id\": 292745012, \"checksum\": 3609245523}"
+msgid "Prev"
+msgstr "Anterior"
+
+msgctxt "{\"cxt\": \"survey_done\", \"id\": 292745012, \"checksum\": 3722898670}"
+msgid "Done"
+msgstr "Hecho"
+
+msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 292745012}"
+msgid "TestSurvey"
+msgstr "TestSurvey"
+
+msgctxt "{\"cxt\": \"survey_ok\", \"id\": 292745012, \"checksum\": 1518866076}"
+msgid "OK"
+msgstr "Okay"
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 536068167}"
+msgid "What is your name?&nbsp;"
+msgstr "¿Cuál es tu nombre?  "
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 536068392}"
+msgid "How are you?&nbsp;"
+msgstr "¿Cómo estás?  "
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3541255625}"
+msgid "What?&nbsp;"
+msgstr "¿Qué?  "
