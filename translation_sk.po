@@ -1,0 +1,655 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Contentful\n"
+"PO-Revision-Date: 2020-09-15 08:26\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: sk\n"
+
+msgctxt "{\"cxt\": \"survey_next\", \"id\": 292470595, \"checksum\": 1121404532}"
+msgid "Next"
+msgstr "Ďalej"
+
+msgctxt "{\"cxt\": \"survey_prev\", \"id\": 292470595, \"checksum\": 1756560141}"
+msgid "Prev"
+msgstr "Späť"
+
+msgctxt "{\"cxt\": \"survey_done\", \"id\": 292470595, \"checksum\": 1242943569}"
+msgid "Done"
+msgstr "Hotovo"
+
+msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 292470595}"
+msgid "Testing Features"
+msgstr ""
+
+msgctxt "{\"cxt\": \"survey_ok\", \"id\": 292470595, \"checksum\": 3610695981}"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 138307752}"
+msgid "Direction page"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 138307917}"
+msgid "Questions for Slovak respondents"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 138308083}"
+msgid "Questions for Spanish&nbsp;respondents"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 138308126}"
+msgid "Questions for&nbsp;Argentinian&nbsp;respondents"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 138308328}"
+msgid "Potential question types"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 138307752}"
+msgid "<div>A direction page helps us to skip questions for certain countries or professions. This comes at a price.  If you the redirection Q is #6, and it skips ten questions, that for some respondents the next Q will be numbered #17 for other #7.  That makes feedback from proofreaders rather not intuitive.  If they spot an error in #11, we have no idea what they are referring to.</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 138307917}"
+msgid "<div>The following questions only relate to you if you live in Slovakia.</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 138308083}"
+msgid "<div>The following questions only relate to you if you live in Spain.</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 138308126}"
+msgid "<div>The following questions only relate to you if you live in Argentina.</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 138308328}"
+msgid "<div>Some of these work nicely on smartphone, others not.  Some would help us, some would not.</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533577127}"
+msgid "How likely is it that you would recommend Visegrad Investments, Candole Partners to a friend or colleague?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533577210}"
+msgid "How helpful were the homework assignments to your understanding of the material?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533577337}"
+msgid "Can you fill out a dropdown menu for me?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533578119}"
+msgid "In which country to you live?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533578536}"
+msgid "How many live performances (concerts, gigs) did you have in..."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533579114}"
+msgid "In the following question, you will see a standard code (ISO-3166-2) to easily map responses and a written text.&nbsp; The translator MUST NOT change the ISO code, for example AT-WI_Vienna must be translated AT-WI_Wien.&nbsp; &nbsp;My software will only use the AT-WI part which is a standard identifier and can match up with official statistics of Vienna, like population, annual concert numbers, local average ticket price, etc."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533578698}"
+msgid "How many live performances (concerts, gigs) did you have in..."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533578852}"
+msgid "How many live performances (concerts, gigs) did you have in..."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533580086}"
+msgid "How is your income is divided in percentage among ..."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533580257}"
+msgid "In the next question, if you want to answer 50% and 30% and 20%, please enter 50, 30, 20.&nbsp; You do not need to be very precise, if your answer is 69.9%, then just write 70 for simplicity.&nbsp; If your answer is 8% and 92%, you can simply write 10 and 90."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533580443}"
+msgid "What is important for you? Please rank them."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533580491}"
+msgid "How much you agree with us?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 533580993}"
+msgid "How would you rate this survey, on a scale of 0 to 10?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120452}"
+msgid "Not at all likely - 0"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120453}"
+msgid "1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120454}"
+msgid "2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120455}"
+msgid "3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120456}"
+msgid "4"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120457}"
+msgid "5"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120458}"
+msgid "6"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120459}"
+msgid "7"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120460}"
+msgid "8"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120461}"
+msgid "9"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120462}"
+msgid "Extremely likely - 10"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120992}"
+msgid "Extremely helpful"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120993}"
+msgid "Very helpful"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120994}"
+msgid "Somewhat helpful"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120995}"
+msgid "Not so helpful"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525120996}"
+msgid "Not at all helpful"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525121618}"
+msgid "A_sound engineer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525121619}"
+msgid "B_songwriter"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525121620}"
+msgid "C_composer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525121621}"
+msgid "D_singer_songwriter"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525125926}"
+msgid "SK_Slovakia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525125927}"
+msgid "ES_Spain"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525125928}"
+msgid "AR_Argentina"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128056}"
+msgid "SK-KO_Kosice"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128057}"
+msgid "SK-XX_Anywhere else in Slovakia."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128055}"
+msgid "SK-BA_Bratislava"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128058}"
+msgid "In 2019 in the entire year"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128072}"
+msgid "In 2020 (up till now and expected till 31 December)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128060}"
+msgid "1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128061}"
+msgid "2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128062}"
+msgid "3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128063}"
+msgid "4"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128064}"
+msgid "5"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128065}"
+msgid "6"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128066}"
+msgid "7"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128067}"
+msgid "8"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128068}"
+msgid "9"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128069}"
+msgid "10"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128070}"
+msgid "11"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128071}"
+msgid "more than 12"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128074}"
+msgid "1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128075}"
+msgid "2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128076}"
+msgid "3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128077}"
+msgid "4"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128078}"
+msgid "5"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128079}"
+msgid "6"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128080}"
+msgid "7"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128081}"
+msgid "8"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128082}"
+msgid "9"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128083}"
+msgid "10"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128084}"
+msgid "11"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525128085}"
+msgid "more than 12"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129090}"
+msgid "In 2019 in the entire year"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129104}"
+msgid "In 2020 (up till now and expected till 31 December)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129092}"
+msgid "1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129093}"
+msgid "2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129094}"
+msgid "3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129095}"
+msgid "4"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129096}"
+msgid "5"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129097}"
+msgid "6"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129098}"
+msgid "7"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129099}"
+msgid "8"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129100}"
+msgid "9"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129101}"
+msgid "10"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129102}"
+msgid "11"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129103}"
+msgid "more than 12"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129106}"
+msgid "1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129107}"
+msgid "2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129108}"
+msgid "3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129109}"
+msgid "4"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129110}"
+msgid "5"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129111}"
+msgid "6"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129112}"
+msgid "7"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129113}"
+msgid "8"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129114}"
+msgid "9"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129115}"
+msgid "10"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129116}"
+msgid "11"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129117}"
+msgid "more than 12"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129087}"
+msgid "ES-MD_Madrid"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129088}"
+msgid "ES-BA_Barcelone"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129089}"
+msgid "ES-XX_Anywhere else in Spain"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129774}"
+msgid "In 2019 in the entire year"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129788}"
+msgid "In 2020 (up till now and expected till 31 December)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129776}"
+msgid "1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129777}"
+msgid "2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129778}"
+msgid "3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129779}"
+msgid "4"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129780}"
+msgid "5"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129781}"
+msgid "6"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129782}"
+msgid "7"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129783}"
+msgid "8"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129784}"
+msgid "9"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129785}"
+msgid "10"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129786}"
+msgid "11"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129787}"
+msgid "more than 12"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129790}"
+msgid "1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129791}"
+msgid "2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129792}"
+msgid "3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129793}"
+msgid "4"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129794}"
+msgid "5"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129795}"
+msgid "6"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129796}"
+msgid "7"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129797}"
+msgid "8"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129798}"
+msgid "9"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129799}"
+msgid "10"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129800}"
+msgid "11"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129801}"
+msgid "more than 12"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129802}"
+msgid "AR-BA_Buenos Aires"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129803}"
+msgid "AR-BA_C&oacute;rdoba"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525129804}"
+msgid "AR-XX_Anywhere else in&nbsp;Aregentina"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136511}"
+msgid "LM_live music"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136512}"
+msgid "RM_sound recordings"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136513}"
+msgid "CM_compositions and publishing income"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136514}"
+msgid "EM_music education"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136515}"
+msgid "TM_technical roles in music"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136516}"
+msgid "MM_managerial roles in music"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136517}"
+msgid "NM_income not related to music"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136519}"
+msgid "Please enter a number. Decimals, percentages, and non-numeric characters are not accepted. We do not need very precise numbers, 0.9 should be rounded to 1,  67.5 can be easiy rounded to 68 or even 70. Do not use the % sign. 50% should be written as 50."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525136520}"
+msgid "The choices need to add up to [100]. You can round 37:63 simply to 40:60, we only want to have a good approximation."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525138133}"
+msgid "C_creative freedom, self expression"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525138134}"
+msgid "M_monetary compensation, income"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525138135}"
+msgid "V_visibility, popularity, feedback from fans"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525138136}"
+msgid "1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525138137}"
+msgid "2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525138138}"
+msgid "3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525139837}"
+msgid "Please enter a whole number between {0} and {1}."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525139841}"
+msgid "0 (not at all)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525139842}"
+msgid "100 (totally agree)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525139843}"
+msgid "50 (neither agree nor disagree)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525141109}"
+msgid "Absolutely dislike it"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525141118}"
+msgid "Excellent and totally like it."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 3525141119}"
+msgid "NA_I do not wish to answer this question."
+msgstr ""
+
+msgctxt "{\"cxt\": \"collector_disqualification\", \"id\": 392287548, \"checksum\": 4282285339}"
+msgid "Thank you for completing our survey!"
+msgstr "Ďakujeme, že ste vyplnili náš prieskum!"
